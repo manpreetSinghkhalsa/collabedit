@@ -1,0 +1,6 @@
+[submodule "CodeMirror"]
+	path = CodeMirror
+	url = https://github.com/manpreetSinghkhalsa/CodeMirror.git
+[submodule "dojo"]
+	path = dojo
+	url = https://github.com/manpreetSinghkhalsa/dojo.git
